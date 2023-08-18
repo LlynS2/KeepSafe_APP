@@ -11,7 +11,7 @@
   <img height="300px" src="https://user-images.githubusercontent.com/86667062/209571871-2ded4eb1-ff48-4adf-828d-978cbc8f4d33.png"><br><br>
   
   <p align="left">
-    𝙺𝚎𝚎𝚙𝚂𝚊𝚏𝚎 𝚒𝚜 𝚊 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚍 𝚋𝚢 𝚝𝚑𝚎 𝚜𝚝𝚊𝚛𝚝𝚞𝚙 ( 𝚏𝚒𝚌𝚝𝚒𝚘𝚗𝚊𝚕 𝚏𝚘𝚛 𝚌𝚘𝚕𝚕𝚎𝚐𝚎 ) 𝚂𝚖𝚊𝚛𝚝𝙶𝚞𝚊𝚛𝚍𝚒𝚊𝚗𝚜, 𝚒𝚗 𝚠𝚑𝚒𝚌𝚑 𝚠𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙 𝚚𝚞𝚒𝚌𝚔 𝚝𝚘𝚘𝚕𝚜 𝚝𝚘 𝚒𝚖𝚙𝚛𝚘𝚟𝚎 𝚊𝚗𝚍 𝚒𝚗𝚌𝚛𝚎𝚊𝚜𝚎𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 
+    𝙺𝚎𝚎𝚙𝚂𝚊𝚏𝚎 𝚒𝚜 𝚊 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚍 𝚋𝚢 𝚝𝚑𝚎 𝚜𝚝𝚊𝚛𝚝𝚞𝚙 ( 𝚏𝚒𝚌𝚝𝚒𝚘𝚗𝚊𝚕 𝚏𝚘𝚛 𝚌𝚘𝚕𝚕𝚎𝚐𝚎 ) 𝚂𝚖𝚊𝚛𝚝𝙶𝚞𝚊𝚛𝚍𝚒𝚊𝚗, 𝚒𝚗 𝚠𝚑𝚒𝚌𝚑 𝚠𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙 𝚚𝚞𝚒𝚌𝚔 𝚝𝚘𝚘𝚕𝚜 𝚝𝚘 𝚒𝚖𝚙𝚛𝚘𝚟𝚎 𝚊𝚗𝚍 𝚒𝚗𝚌𝚛𝚎𝚊𝚜𝚎𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 
     𝚒𝚗 𝚌𝚒𝚝𝚒𝚎𝚜 𝚋𝚢 𝚊𝚙𝚙𝚕𝚢𝚒𝚗𝚐 𝚝𝚑𝚎 𝚂𝚖𝚊𝚛𝚝𝙲𝚒𝚝𝚢 𝚌𝚘𝚗𝚌𝚎𝚙𝚝.<br>
   <p align="center">
     𝚆𝚒𝚝𝚑 𝚘𝚞𝚛 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗, 𝚒𝚝 𝚒𝚜 𝚙𝚘𝚜𝚜𝚒𝚋𝚕𝚎 𝚏𝚘𝚛 𝚝𝚑𝚎 𝚞𝚜𝚎𝚛 𝚝𝚘 𝚔𝚗𝚘𝚠 𝚠𝚑𝚎𝚛𝚎 𝚊 𝚛𝚒𝚜𝚔 𝚜𝚒𝚝𝚞𝚊𝚝𝚒𝚘𝚗 𝚒𝚜 𝚘𝚌𝚌𝚞𝚛𝚛𝚒𝚗𝚐 𝚊𝚗𝚍 𝚝𝚘 𝚊𝚟𝚘𝚒𝚍 𝚒𝚝, 
@@ -71,10 +71,10 @@
 
 <table>
      <tr>
-          <td><img src="https://github.com/LlynS2/KeepSafe_APP/assets/86667062/8c6766eb-02cc-4cdd-a0e3-48d25a4b68ad" width="50px"></td>
+          <td><img src="https://github.com/LlynS2/KeepSafe_APP/assets/86667062/ef7a69cf-d077-4f9c-a044-7096dd715a62" width="50px"></td>
           <td><a href="https://play.google.com/store/apps/details?id=host.exp.exponent">𝐀𝐧𝐝𝐫𝐨𝐢𝐝</a></td>
           <td>𝐨𝐫</td>
-          <td><img src="https://github.com/LlynS2/KeepSafe_APP/assets/86667062/2c459c92-54b1-4f9e-8255-c258b2e3e19f" width="50px"></td>
+          <td><img src="https://github.com/LlynS2/KeepSafe_APP/assets/86667062/a57e9fe4-f058-45d4-be77-f32c27392f8e" width="50px"></td>
           <td><a href="https://apps.apple.com/app/expo-go/id982107779">𝐈𝐎𝐒</a></td>
       </tr>
    </table>
@@ -83,9 +83,9 @@
 
   <table>
      <tr>
-          <td><img src="https://github.com/LlynS2/KeepSafe_APP/assets/86667062/9b1fd9f2-6c03-4452-989d-312545669c63" width="55px"></td>
+          <td><img src="https://github.com/LlynS2/KeepSafe_APP/assets/86667062/36a516e5-77e1-4fc2-93cc-03b114eaa979" width="55px"></td>
           <td><a href="https://code.visualstudio.com/download">𝐕𝐒 𝐂𝐨𝐝𝐞</a></td>
-          <td><img src="https://github.com/LlynS2/KeepSafe_APP/assets/86667062/549f44cc-e7e0-45b4-8cc0-e221e3710817" width="50px"></td>
+          <td><img src="https://github.com/LlynS2/KeepSafe_APP/assets/86667062/8124f5dc-0589-4157-a5ea-aac6b77fe7c4" width="50px"></td>
           <td><a href="https://classic.yarnpkg.com/en/docs/install#mac-stable">𝐘𝐚𝐫𝐧</a></td>
       </tr>
    </table>
@@ -132,7 +132,7 @@ $ npx expo start
 
 <div align="center">
   <img src="https://github.com/LlynS2/KeepSafe_APP/assets/86667062/2d794042-e57e-4df6-bded-57a65dcb6128" width="200px">
-  <p><sup>𝙱𝚢 <b>𝐒𝐦𝐚𝐫𝐭𝐆𝐮𝐚𝐫𝐝𝐢𝐚𝐧𝐬</b><sup></p>
+  <p><sup>𝙱𝚢 <b>𝐒𝐦𝐚𝐫𝐭𝐆𝐮𝐚𝐫𝐝𝐢𝐚𝐧</b><sup></p>
 </div>
  
  <div>
