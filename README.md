@@ -32,73 +32,107 @@
    <img src="./assets/readme/new.jpeg" alt="New Report" width="150px" height="auto"/>
 
    <img src="./assets/readme/detais.jpeg" alt="Report Details" width="150px" height="auto"/>
- </div>
+ </div><br>
+
+ <div align="right" >
+  <h3>☇ 𝕋𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕚𝕖𝕤 ❜</h3>
+  <p>𝚃𝚑𝚎 𝚖𝚊𝚒𝚗 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚞𝚜𝚎𝚍:</p>
+  
+   <table>
+     <tr>
+          <td>✅</td>
+          <td><a href="https://reactnative.dev/">𝐑𝐞𝐚𝐜𝐭 𝐍𝐚𝐭𝐢𝐯𝐞</a></td>
+          <td>✅</td>
+          <td><a href="https://docs.expo.dev/">𝐄𝐱𝐩𝐨</a></td>
+      </tr>
+      <tr>
+          <td>✅</td>
+          <td><a href="https://react-hook-form.com/">𝐑𝐞𝐚𝐜𝐭 𝐇𝐨𝐨𝐤 𝐅𝐨𝐫𝐦</a></td>
+          <td>✅</td>
+          <td><a href="https://github.com/react-native-maps/react-native-maps">𝐑𝐞𝐚𝐜𝐭 𝐍𝐚𝐭𝐢𝐯𝐞 𝐌𝐚𝐩𝐬</a></td>
+      </tr>
+      <tr>
+          <td>✅</td>
+          <td><a href="https://firebase.google.com/">𝐅𝐢𝐫𝐞𝐛𝐚𝐬𝐞</a></td>
+          <td>✅</td>
+          <td><a href="https://styled-components.com/">𝐒𝐭𝐲𝐥𝐞𝐝-𝐂𝐨𝐦𝐩𝐨𝐧𝐞𝐧𝐭𝐬</a></td>
+      </tr>
+      
+   </table>
+</div>
  
-## 🚀 Tecnologias
+ <div>
+  <h3>☇ ℙ𝕣𝕖𝕣𝕖𝕢𝕦𝕚𝕤𝕚𝕥𝕖𝕤 ❜</h3>
+  <p>
 
-As princiais tecnologias utilizadas:
+😁👉 <a href="https://nodejs.org/en/">𝐍𝐨𝐝𝐞𝐉𝐒 𝐋𝐓𝐒</a>
 
-- [React Native](https://reactnative.dev/)
-- [Expo](https://docs.expo.dev/)
-- [React Hook Form](https://react-hook-form.com/)
-- [React Native Maps](https://github.com/react-native-maps/react-native-maps)
-- [Firebase](https://firebase.google.com/)
-- [Styled-Components](https://styled-components.com/)
+𝑰𝒏𝒔𝒕𝒂𝒍𝒍 𝒕𝒉𝒆 𝑬𝒙𝒑𝒐 𝑮𝒐 𝑨𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏 :
 
-## :zap: Executar
+<table>
+     <tr>
+          <td><img src="https://github.com/LlynS2/KeepSafe_APP/assets/86667062/8c6766eb-02cc-4cdd-a0e3-48d25a4b68ad" width="50px"></td>
+          <td><a href="https://play.google.com/store/apps/details?id=host.exp.exponent">𝐀𝐧𝐝𝐫𝐨𝐢𝐝</a></td>
+          <td>𝐨𝐫</td>
+          <td><img src="https://github.com/LlynS2/KeepSafe_APP/assets/86667062/2c459c92-54b1-4f9e-8255-c258b2e3e19f" width="50px"></td>
+          <td><a href="https://apps.apple.com/app/expo-go/id982107779">𝐈𝐎𝐒</a></td>
+      </tr>
+   </table>
 
-### Pré-requisitos
+  <p>𝑹𝒆𝒄𝒐𝒎𝒎𝒆𝒏𝒅𝒂𝒕𝒊𝒐𝒏 :</p>
 
-- [NodeJS LTS](https://nodejs.org/en/)
+  <table>
+     <tr>
+          <td><img src="https://github.com/LlynS2/KeepSafe_APP/assets/86667062/9b1fd9f2-6c03-4452-989d-312545669c63" width="55px"></td>
+          <td><a href="https://code.visualstudio.com/download">𝐕𝐒 𝐂𝐨𝐝𝐞</a></td>
+          <td><img src="https://github.com/LlynS2/KeepSafe_APP/assets/86667062/549f44cc-e7e0-45b4-8cc0-e221e3710817" width="50px"></td>
+          <td><a href="https://classic.yarnpkg.com/en/docs/install#mac-stable">𝐘𝐚𝐫𝐧</a></td>
+      </tr>
+   </table>
+</div>
 
-Instalar o Aplicativo Expo Go:
+<div align="center" >
+  <h3>☇ ℍ𝕠𝕨 𝕥𝕠 𝕣𝕦𝕟? ❜</h3>
+</div>
 
-- [Android](https://play.google.com/store/apps/details?id=host.exp.exponent)
-- [IOS](https://apps.apple.com/app/expo-go/id982107779)
-
-### Recomendação
-
-- [VS Code](https://code.visualstudio.com/download)
-- [Yarn](https://classic.yarnpkg.com/en/docs/install#mac-stable)
-
-#### Clone o projeto e acesse a pasta
+<div>
+<p>𝟙. 𝙲𝚕𝚘𝚗𝚎 𝚝𝚑𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚊𝚗𝚍 𝚊𝚌𝚌𝚎𝚜𝚜 𝚝𝚑𝚎 𝚏𝚘𝚕𝚍𝚎𝚛</p>
 
 ```sh
-$ git clone https://github.com/thudf/keep-safe-app.git
-$ cd keep-safe-app
+$ git clone https://github.com/LlynS2/KeepSafe_APP.git
+$ cd KeepSafe_APP
 ```
 
-#### Configure as variáveis ambiente
+<p>𝟚. 𝙲𝚘𝚗𝚏𝚒𝚐𝚞𝚛𝚎 𝚝𝚑𝚎 𝚎𝚗𝚟𝚒𝚛𝚘𝚗𝚖𝚎𝚗𝚝 𝚟𝚊𝚛𝚒𝚊𝚋𝚕𝚎𝚜</p> 
 
 ```sh
 $ cp .env.example .env
 ```
 
-#### Iniciando a aplicação
+<p>𝟛. 𝚂𝚝𝚊𝚛𝚝𝚒𝚗𝚐 𝚝𝚑𝚎 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗</p>  
 
 ```sh
-# Instale as dependências
+# Install the dependencies
 $ yarn
-# ou
+# or
 $ npm install
 
-# Inicie a aplicação
+# Start the application
 $ npx expo start
 ```
+</div><br>
 
-### Abrindo o App no seu celular
-- No seu Iphone, abra a câmera padrão e escaneie o QR Code que apareceu no terminal
-- No seu dispositivo Android, abra o app Expo Go e pressione "Scan QR Code" na aba Home e escaneie o QR Code que apareceu no terminal
-
-## 🖊 Licença
-
-Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para saber mais detalhes.
-
----
+<div>
+<p>» 𝕆𝕡𝕖𝕟𝕚𝕟𝕘 𝕥𝕙𝕖 𝔸𝕡𝕡 𝕠𝕟 𝕪𝕠𝕦𝕣 𝕔𝕖𝕝𝕝 𝕡𝕙𝕠𝕟𝕖 📱 ˎˊ˗ ࿐°</p>
+<p>
+ 👉 𝙾𝚗 𝚢𝚘𝚞𝚛 𝙸𝚙𝚑𝚘𝚗𝚎, 𝚘𝚙𝚎𝚗 𝚝𝚑𝚎 𝚍𝚎𝚏𝚊𝚞𝚕𝚝 𝚌𝚊𝚖𝚎𝚛𝚊 𝚊𝚗𝚍 𝚜𝚌𝚊𝚗 𝚝𝚑𝚎 𝚀𝚁 𝙲𝚘𝚍𝚎 𝚝𝚑𝚊𝚝 𝚊𝚙𝚙𝚎𝚊𝚛𝚎𝚍 𝚘𝚗 𝚝𝚑𝚎 𝚝𝚎𝚛𝚖𝚒𝚗𝚊𝚕;<br>
+ 👉 𝙾𝚗 𝚢𝚘𝚞𝚛 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝚍𝚎𝚟𝚒𝚌𝚎, 𝚘𝚙𝚎𝚗 𝚝𝚑𝚎 𝙴𝚡𝚙𝚘 𝙶𝚘 𝚊𝚙𝚙 𝚊𝚗𝚍 𝚙𝚛𝚎𝚜𝚜 "𝚂𝚌𝚊𝚗 𝚀𝚁 𝙲𝚘𝚍𝚎" 𝚒𝚗 𝚝𝚑𝚎 𝙷𝚘𝚖𝚎 𝚝𝚊𝚋 𝚊𝚗𝚍 𝚜𝚌𝚊𝚗 𝚝𝚑𝚎 𝚀𝚁 𝙲𝚘𝚍𝚎 𝚝𝚑𝚊𝚝 𝚊𝚙𝚙𝚎𝚊𝚛𝚎𝚍 𝚒𝚗 𝚝𝚑𝚎 𝚝𝚎𝚛𝚖𝚒𝚗𝚊𝚕.
+</p>
+</div><br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/2wl7kKh3BxgwlHk03U/giphy.gif" width="200px">
-  <p><sup>By <b>SmartGuardian</b><sup></p>
+  <img src="https://github.com/LlynS2/KeepSafe_APP/assets/86667062/563209d9-9de6-4008-960b-7e510aedf617" width="200px">
+  <p><sup>𝙱𝚢 <b>𝐒𝐦𝐚𝐫𝐭𝐆𝐮𝐚𝐫𝐝𝐢𝐚𝐧𝐬</b><sup></p>
 </div>
  
  <div>
