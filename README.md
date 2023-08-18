@@ -131,7 +131,7 @@ $ npx expo start
 </div><br>
 
 <div align="center">
-  <img src="https://github.com/LlynS2/KeepSafe_APP/assets/86667062/563209d9-9de6-4008-960b-7e510aedf617" width="200px">
+  <img src="https://github.com/LlynS2/KeepSafe_APP/assets/86667062/2d794042-e57e-4df6-bded-57a65dcb6128" width="200px">
   <p><sup>𝙱𝚢 <b>𝐒𝐦𝐚𝐫𝐭𝐆𝐮𝐚𝐫𝐝𝐢𝐚𝐧𝐬</b><sup></p>
 </div>
  
